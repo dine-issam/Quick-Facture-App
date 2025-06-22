@@ -3,6 +3,20 @@
 A mobile-friendly invoicing module built with Flutter. This app provides a dynamic user interface for creating, managing, and previewing invoices in real-time.
 
 ---
+## 📸 Screenshots
+
+
+<img src="assets/images/1.jpg" alt="Invoice Creation 1" width="300"/>
+<img src="assets/images/2.jpg" alt="Invoice Creation 2" width="300"/>
+
+
+<img src="assets/images/3.jpg" alt="Invoice Preview 1" width="300"/>
+<img src="assets/images/4.jpg" alt="Invoice Preview 2" width="300"/>
+
+
+<img src="assets/images/5.jpg" alt="Dark Mode Preview" width="300"/>
+
+---
 
 ## 🎯 Objective
 
@@ -65,22 +79,6 @@ This app was developed as a coding challenge for a Flutter Front-End invoicing m
 - Modular component design for better code readability
 - State synced with dynamic UI changes
 - Real-time invoice rendering logic within preview section
-
----
-
-## 📸 Screenshots
-
-### 🧾 Invoice Creation Screen
-<img src="assets/images/1.jpg" alt="Invoice Creation 1" width="300"/>
-<img src="assets/images/2.jpg" alt="Invoice Creation 2" width="300"/>
-
-### 📄 Invoice Preview
-<img src="assets/images/3.jpg" alt="Invoice Preview 1" width="300"/>
-<img src="assets/images/4.jpg" alt="Invoice Preview 2" width="300"/>
-
-### 🌗 Dark Mode Preview
-<img src="assets/images/5.jpg" alt="Dark Mode Preview" width="300"/>
-
 
 ---
 
